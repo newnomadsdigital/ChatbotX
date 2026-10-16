@@ -17,7 +17,7 @@
   "dependencies": {
     "@ai-sdk/mcp": "^1.0.37",
     "@bull-board/api": "^8.1.2",
-    "@bull-board/hono": "^8.1.2",
+    "@bull-board/hono": "^9.10.4",
     "@bull-board/ui": "^8.1.2",
     "@chatbotx.io/ai": "workspace:*",
     "@chatbotx.io/analytics": "workspace:*",
